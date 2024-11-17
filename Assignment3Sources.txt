@@ -1,0 +1,10 @@
+Test if the expressions were converting correctly 
+https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html 
+
+Github sources
+https://github.com/nikhilrathi/Infix-To-Postfix/blob/master/Problem.java
+https://gist.github.com/o-morenets/21f0a1eec4a501711da036c5990ac200
+https://gist.github.com/Ankit-kumar-sharma/6f302c6033e559a08897360bf1e18ba8
+
+Stack Overflow
+https://stackoverflow.com/questions/26699089/infix-to-postfix-using-stacks-java
